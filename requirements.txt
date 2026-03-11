@@ -1,0 +1,4 @@
+networkx>=3.4
+cvxpy
+numpy
+pytest
