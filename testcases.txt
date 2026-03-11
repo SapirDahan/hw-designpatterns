@@ -1,9 +1,0 @@
-case=case-1
-input=input-string
-output=output-string
-
-case=case-2
-input=input-string
-output=output-string
-
-...
